@@ -1,0 +1,23 @@
+@font-face {
+    font-family: Poppins-Regular;
+    src: url('fuentes/poppins/Poppins-Regular.ttf');
+}
+
+body,
+html {
+    font-family: Poppins-Regular, sans-serif;
+}
+
+.add-new-button {
+    padding: 10px;
+    padding-bottom: 10px;
+}
+
+.head-title {
+    padding-top: 40px;
+}
+
+body {
+    margin-bottom: 10%;
+    background-color: powderblue;
+}
